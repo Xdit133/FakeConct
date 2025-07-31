@@ -9,7 +9,7 @@ from getpass import getpass
 try:
     from colorama import Fore, Style, init
 except ImportError:
-    print("Menginstall requirements...")
+    print("Installing requirements...")
     os.system(f"{sys.executable} -m pip install colorama")
     from colorama import Fore, Style, init
 
