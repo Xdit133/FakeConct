@@ -62,8 +62,9 @@ This script is **NOT** intended for misuse in any form, including deceiving pote
 
 Please open an issue ticket if you encounter any problems or need assistance using this script. All contributions are greatly appreciated!
 
-**Creator**: [imscruz](https://github.com/imscruz)
-**Recorder:** [Xdit133](https://github.com/Xdit133)
+| Creator | Recorder |
+|---------|----------|
+| [imscruz](https://github.com/imscruz) | [Xdit133](https://github.com/Xdit133) |
 
 ---
 
