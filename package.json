@@ -1,0 +1,8 @@
+{
+  "name": "FakeConct",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "python3 main.py",
+    "postinstall": "pip colorama"
+  }
+}
